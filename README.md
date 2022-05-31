@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Esaaaaaaa
-- 👀 I’m interested in Scripting LuaU.
-- 🌱 I’m currently learning CS.
+- 👀 I’m interested in Scripting Lua.
+- 🌱 I’m currently learning Advanced Lua.
 - 📫 How to reach me: Discord; E;#9466 or Roblox; Esa_RBX
 
 <!---
